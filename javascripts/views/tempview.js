@@ -1,5 +1,3 @@
-var app = app || {};
-
 app.TempView = Backbone.View.extend({
   events : {
     "click" : "handleMyClick"
